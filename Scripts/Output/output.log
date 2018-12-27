@@ -1,0 +1,68 @@
+Fit ARIMA: order=(1, 1, 1) seasonal_order=(0, 1, 1, 12); AIC=2013.174, BIC=2032.478, Fit time=1.010 seconds
+Fit ARIMA: order=(0, 1, 0) seasonal_order=(0, 1, 0, 12); AIC=2252.662, BIC=2260.383, Fit time=0.103 seconds
+Fit ARIMA: order=(1, 1, 0) seasonal_order=(1, 1, 0, 12); AIC=2132.105, BIC=2147.548, Fit time=0.659 seconds
+Fit ARIMA: order=(0, 1, 1) seasonal_order=(0, 1, 1, 12); AIC=2023.421, BIC=2038.864, Fit time=0.915 seconds
+Fit ARIMA: order=(1, 1, 1) seasonal_order=(1, 1, 1, 12); AIC=2013.042, BIC=2036.206, Fit time=2.499 seconds
+Fit ARIMA: order=(1, 1, 1) seasonal_order=(1, 1, 0, 12); AIC=2132.767, BIC=2152.071, Fit time=0.792 seconds
+Fit ARIMA: order=(1, 1, 1) seasonal_order=(1, 1, 2, 12); AIC=2010.906, BIC=2037.932, Fit time=5.423 seconds
+Fit ARIMA: order=(0, 1, 1) seasonal_order=(1, 1, 2, 12); AIC=2023.203, BIC=2046.368, Fit time=3.175 seconds
+Fit ARIMA: order=(2, 1, 1) seasonal_order=(1, 1, 2, 12); AIC=2012.024, BIC=2042.910, Fit time=6.371 seconds
+Fit ARIMA: order=(1, 1, 0) seasonal_order=(1, 1, 2, 12); AIC=2009.493, BIC=2032.658, Fit time=3.785 seconds
+Fit ARIMA: order=(1, 1, 0) seasonal_order=(0, 1, 2, 12); AIC=nan, BIC=nan, Fit time=nan seconds
+Fit ARIMA: order=(1, 1, 0) seasonal_order=(2, 1, 2, 12); AIC=2001.958, BIC=2028.984, Fit time=5.645 seconds
+Fit ARIMA: order=(1, 1, 0) seasonal_order=(2, 1, 1, 12); AIC=2004.339, BIC=2027.504, Fit time=2.407 seconds
+Fit ARIMA: order=(1, 1, 0) seasonal_order=(1, 1, 1, 12); AIC=2011.643, BIC=2030.947, Fit time=1.804 seconds
+Fit ARIMA: order=(0, 1, 0) seasonal_order=(2, 1, 2, 12); AIC=2061.264, BIC=2084.429, Fit time=4.863 seconds
+Fit ARIMA: order=(2, 1, 0) seasonal_order=(2, 1, 2, 12); AIC=2002.871, BIC=2033.758, Fit time=6.524 seconds
+Fit ARIMA: order=(1, 1, 1) seasonal_order=(2, 1, 2, 12); AIC=2003.134, BIC=2034.020, Fit time=6.666 seconds
+Fit ARIMA: order=(2, 1, 1) seasonal_order=(2, 1, 2, 12); AIC=2011.083, BIC=2045.830, Fit time=4.732 seconds
+Total fit time: 57.378 seconds
+WTI AIC
+2001.9581119684246
+Fit ARIMA: order=(1, 1, 1) seasonal_order=(0, 1, 1, 12); AIC=1956.829, BIC=1975.899, Fit time=1.510 seconds
+Fit ARIMA: order=(0, 1, 0) seasonal_order=(0, 1, 0, 12); AIC=2170.617, BIC=2178.246, Fit time=0.107 seconds
+Fit ARIMA: order=(1, 1, 0) seasonal_order=(1, 1, 0, 12); AIC=2065.229, BIC=2080.486, Fit time=0.755 seconds
+Fit ARIMA: order=(0, 1, 1) seasonal_order=(0, 1, 1, 12); AIC=1961.618, BIC=1976.874, Fit time=1.071 seconds
+Fit ARIMA: order=(1, 1, 1) seasonal_order=(1, 1, 1, 12); AIC=1955.921, BIC=1978.806, Fit time=2.658 seconds
+Fit ARIMA: order=(1, 1, 1) seasonal_order=(1, 1, 0, 12); AIC=2066.802, BIC=2085.873, Fit time=0.995 seconds
+Fit ARIMA: order=(1, 1, 1) seasonal_order=(1, 1, 2, 12); AIC=1953.771, BIC=1980.470, Fit time=5.621 seconds
+Fit ARIMA: order=(0, 1, 1) seasonal_order=(1, 1, 2, 12); AIC=1959.765, BIC=1982.650, Fit time=4.708 seconds
+Fit ARIMA: order=(2, 1, 1) seasonal_order=(1, 1, 2, 12); AIC=1955.698, BIC=1986.212, Fit time=7.873 seconds
+Fit ARIMA: order=(1, 1, 0) seasonal_order=(1, 1, 2, 12); AIC=1951.846, BIC=1974.731, Fit time=4.087 seconds
+Fit ARIMA: order=(1, 1, 0) seasonal_order=(0, 1, 2, 12); AIC=1952.911, BIC=1971.982, Fit time=5.363 seconds
+Fit ARIMA: order=(1, 1, 0) seasonal_order=(2, 1, 2, 12); AIC=1950.495, BIC=1977.194, Fit time=4.433 seconds
+Fit ARIMA: order=(1, 1, 0) seasonal_order=(2, 1, 1, 12); AIC=1948.531, BIC=1971.416, Fit time=2.942 seconds
+Fit ARIMA: order=(0, 1, 0) seasonal_order=(2, 1, 1, 12); AIC=2002.150, BIC=2021.220, Fit time=2.143 seconds
+Fit ARIMA: order=(2, 1, 0) seasonal_order=(2, 1, 1, 12); AIC=1950.491, BIC=1977.190, Fit time=3.660 seconds
+Fit ARIMA: order=(1, 1, 1) seasonal_order=(2, 1, 1, 12); AIC=1950.498, BIC=1977.196, Fit time=3.697 seconds
+Fit ARIMA: order=(2, 1, 1) seasonal_order=(2, 1, 1, 12); AIC=1952.462, BIC=1982.975, Fit time=3.955 seconds
+Fit ARIMA: order=(1, 1, 0) seasonal_order=(1, 1, 1, 12); AIC=1953.978, BIC=1973.048, Fit time=2.034 seconds
+Fit ARIMA: order=(1, 1, 0) seasonal_order=(2, 1, 0, 12); AIC=2017.945, BIC=2037.016, Fit time=1.465 seconds
+Total fit time: 59.079 seconds
+
+BRT AIC
+1948.5310731305017
+
+Training the model on our datasets
+
+********* FORECASTED VALUES ****************
+Forecasting WTI for next 13 periods
+[41.53223721 42.98565392 43.24367298 42.12342269 41.2113934  40.96679008
+ 41.03022326 40.6459499  42.89022131 42.4711888  48.27453569 49.86922824
+ 48.98311601]
+
+Forecasting BRT for next 13 periods
+[42.55571134 42.21797363 43.56841375 43.25900754 43.2485451  43.44120402
+ 42.68185259 43.05051901 44.46787707 44.17701005 46.74485499 47.56528058
+ 46.98355748]
+
+
+                       WTI
+Date
+1986-01-01 00:00:00  22.93
+1986-02-01 00:00:00  15.46
+1986-03-01 00:00:00  12.61
+1986-04-01 00:00:00  12.84
+1986-05-01 00:00:00  15.38
+/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/axes.py:4747: UserWarning: No labeled objects found. Use label='...' kwarg on individual plots.
+  warnings.warn("No labeled objects found. "
