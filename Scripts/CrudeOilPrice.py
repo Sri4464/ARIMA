@@ -107,7 +107,7 @@ wti_forecasted.index.name = 'Date'
 print(wti_forecasted)
 
 
-""" This is the actual data (Actuals vs Predicted
+""" This is the actual data (Actuals vs Predicted)
 Actuals		Predicted	
 Date	WTI	Date	WTI
 16-May 	46.71	16-May	41.532237
